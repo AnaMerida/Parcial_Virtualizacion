@@ -1,0 +1,25 @@
+version: '3.3'
+
+services:
+  flask_app:
+    image: tercer-parcial
+    ports:
+      - 8000:8000
+    depends_on:
+      - mysql
+
+  mongodb_db:
+    image: mongodb/mongodb-community-server:latest
+    ports:
+      - 27017:27017
+
+  wordpress:
+    image: wordpress:latest
+    ports:
+      - 1234:80
+
+  nginx:
+    image: nginx:latest
+    ports:
+      - 5678:80
+
