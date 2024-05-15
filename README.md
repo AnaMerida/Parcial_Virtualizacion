@@ -18,8 +18,14 @@ Imagen de MongoDB
 Prueba de MongoDB desde Mongo Shell
 ![image](https://github.com/AnaMerida/Parcial_Virtualizacion/assets/70529789/6d240924-dc19-4ae5-8c40-69354b0b0842)
 
-Imagen de Frontend
+Imagen de Frontend - Wordpress
 ![image](https://github.com/AnaMerida/Parcial_Virtualizacion/assets/70529789/7cc4cf55-bc1c-439f-bce5-3aa34e45569a)
+
+Imagen de Frontend - Nginx
+![image](https://github.com/AnaMerida/Parcial_Virtualizacion/assets/70529789/b057aeef-a5f6-49e1-a4f4-eefeeb484805)
+
+Imagen de archivo python que consume API
+![image](https://github.com/AnaMerida/Parcial_Virtualizacion/assets/70529789/b9d4f41c-5403-46e6-bd0f-1e1fc6abad26)
 
 Imagen de archivo Terraform
 ![image](https://github.com/AnaMerida/Parcial_Virtualizacion/assets/70529789/87c8ca0e-20fb-4d72-a2ce-d352ed610e4f)
